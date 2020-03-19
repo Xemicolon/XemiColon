@@ -1,5 +1,3 @@
-# XemiColon
-
 # Full name:
 
 Oluwatobiloba Light
@@ -8,9 +6,7 @@ Oluwatobiloba Light
 
 Oluwatobilobalight@icloud.com
 
-# Slack username:
-
-XemiColon
+# Slack username: XemiColon
 
 # Tracks:
 
