@@ -2,15 +2,25 @@
 
 Oluwatobiloba Light
 
+#
+
 # Email:
 
 Oluwatobilobalight@icloud.com
 
-# Slack username: XemiColon
+#
+
+# Slack username:
+
+XemiColon
+
+#
 
 # Tracks:
 
 Front End & Back End
+
+#
 
 # Courses:
 
