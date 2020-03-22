@@ -4,7 +4,6 @@ var name = "Oluwatobiloba Light";
 // Store your courses in an array.
 var courses = ["HTML", "CSS", "JS", "NodeJS", "Python"];
 
-
 console.log("My name is " + name + " and I am taking the courses below:");
 
 // Display the number of courses
@@ -12,7 +11,7 @@ for (var i = 0; i < courses.length; i++) {
   console.log(courses[i]);
 }
 
-// Display your name and courses and do one of the following:  
+// Display your name and courses and do one of the following:
 // 1. If the number of courses you are doing is an odd number, find and display all odd numbers from 1-200 (inclusive)
 
 if (courses.length % 2 !== 0) {
