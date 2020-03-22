@@ -6,7 +6,7 @@ var courses = ["HTML", "CSS", "JS", "NodeJS", "Python"];
 
 console.log("My name is " + name + " and I am taking the courses below:");
 
-// Display the number of courses
+// Display the name of courses
 for (var i = 0; i < courses.length; i++) {
   console.log(courses[i]);
 }
