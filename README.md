@@ -1,14 +1,14 @@
 <h3 align="center"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <B>Oluwatobiloba</B></h3>
 <hr>
 
-Full stack developer with 2 years experience and a team player. I love building products and develop for impact. Other than my passion in technology, I have strong interests in music and I'm enthusiastic for deeper studies and meanings, and all that is taboo or mysterious, psychology.
+Full stack developer with 2 years experience. A good team player. I love building products and developing for impact. Other than my passion in technology, I have strong interests in music and I'm enthusiastic for deeper studies and meanings, and all that is taboo or mysterious, psychology.
 
 - 📫 How to reach me:
   - [Twitter](https://twitter.com/xemicolon "My Twitter")
   - [LinkedIn](https://www.linkedin.com/in/agunloyeoluwatobiloba/ "My LinkedIn")
   - [Portfolio/Blog](# "My portfolio is coming soon...")
 - 😄 Pronouns: he/him.
-- ⚡ Fun fact: I'm a naughty freak 👅.
+- ⚡ Fun fact: I'm a naughty freak 👅
 <!--
 
 ## 🔧 Technologies & Tools
