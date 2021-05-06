@@ -8,7 +8,7 @@ Full stack developer with 2 years experience. A good team player. I love buildin
   - [LinkedIn](https://www.linkedin.com/in/agunloyeoluwatobiloba/ "My LinkedIn")
   - [Portfolio/Blog](# "My portfolio is coming soon...")
 - 😄 Pronouns: he/him.
-- ⚡ Fun fact: I'm a naughty freak 👅
+- ⚡ Fun fact: 👅
 <!--
 
 ## 🔧 Technologies & Tools
